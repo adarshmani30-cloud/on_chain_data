@@ -180,7 +180,7 @@ npm >= 7.0.0
 
 ```bash
 # Clone the repository
-git clone https://github.com/Arya4546/on_chain_data.git
+git clone https://github.com/adarshmani30-cloud/on_chain_data.git
 cd on_chain_data
 
 # Install dependencies
