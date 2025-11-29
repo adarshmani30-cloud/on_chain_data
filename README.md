@@ -34,7 +34,7 @@
 
 ## 🎯 Overview
 
-**Somnia Streams Data Hub** is an enterprise-grade backend service that bridges Web2 applications with the Somnia blockchain network. It provides a robust RESTful API for publishing and retrieving player performance data with cryptographic integrity and decentralized storage.
+*On Chain Data** is an enterprise-grade backend service that bridges Web2 applications with the Somnia blockchain network. It provides a robust RESTful API for publishing and retrieving player performance data with cryptographic integrity and decentralized storage.
 
 ### Use Cases
 
